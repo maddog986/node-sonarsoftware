@@ -68,8 +68,8 @@ sonarClient
 
 ## License
 
-[See License](https://github.com/maddog986/node-repairshopr/blob/master/LICENSE)
+[See License](https://github.com/maddog986/node-sonarsoftware/blob/master/LICENSE)
 
 ## Release Notes
 
-[See Changelog](https://github.com/maddog986/node-repairshopr/blob/master/CHANGELOG.md)
+[See Changelog](https://github.com/maddog986/node-sonarsoftware/blob/master/CHANGELOG.md)
